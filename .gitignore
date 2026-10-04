@@ -1,0 +1,11 @@
+# Construct local backups and editor state
+*.capx.backup*
+*.caproj.backup*
+*.uistate.xml
+*.tmp
+*.log
+.vs/
+.vscode/
+__pycache__/
+Library/
+Temp/
